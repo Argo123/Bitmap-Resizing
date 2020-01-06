@@ -1,0 +1,7 @@
+﻿  Assembling AsmDll.asm...
+AsmDll.asm(87): warning A6004: procedure argument or local not referenced : a
+AsmDll.asm(87): warning A6004: procedure argument or local not referenced : d
+     Creating library C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\x64\Debug\DLLAssembly.lib and object C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\x64\Debug\DLLAssembly.exp
+DLLAssembly.exp : warning LNK4070: /OUT:AsmDll.dll directive in .EXP differs from output filename 'C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\x64\Debug\DLLAssembly.dll'; ignoring directive
+  AsmDll.vcxproj -> C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\x64\Debug\DLLAssembly.dll
+  AsmDll.vcxproj -> C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\x64\Debug\DLLAssembly.pdb (Full PDB)

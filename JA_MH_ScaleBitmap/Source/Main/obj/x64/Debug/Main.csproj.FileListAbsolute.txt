@@ -1,0 +1,13 @@
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\bin\x64\Debug\BitmapScale.exe.config
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\bin\x64\Debug\BitmapScale.exe
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\bin\x64\Debug\BitmapScale.pdb
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\MainWindow.g.cs
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\App.g.cs
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\BitmapScale_MarkupCompile.cache
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\BitmapScale_MarkupCompile.lref
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\MainWindow.baml
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\BitmapScale.g.resources
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\BitmapScale.Properties.Resources.resources
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\BitmapScale.exe
+C:\Users\micha\Desktop\JA\JA_MH_ScaleBitmap\Source\MAIN\obj\x64\Debug\BitmapScale.pdb
